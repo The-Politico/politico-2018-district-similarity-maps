@@ -7,6 +7,8 @@
 
 ##### [Political similarity](political_similarity.ipynb)
 
+##### [Demographic similarity](demographic_similarity.ipynb)
+
 ### Running the notebooks
 
 ```
