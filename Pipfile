@@ -15,6 +15,10 @@ matplotlib = "*"
 jupyter = "*"
 requests = "*"
 scipy = "*"
+census = "*"
+us = "*"
+pydash = "*"
+sklearn = "*"
 
 
 [dev-packages]
