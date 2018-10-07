@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e09dd1eb58a9d500b4df2043a81ff3a33be0367fe4d6c9672228b75f94c146d3"
+            "sha256": "7bbe0ad1771300078573d77e0c84d04aa5dd1cf5e935b6772873bdec5140f110"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -49,6 +49,20 @@
             ],
             "version": "==3.0.0"
         },
+        "boto3": {
+            "hashes": [
+                "sha256:f27a07b772820a2e5f30f924beba0db47a1d624dc4c32b2cd4def9aba9591130",
+                "sha256:c667e1ba9677f37fe04afa3865840ade093529f353c5b4ba75222864f6478f74"
+            ],
+            "version": "==1.9.18"
+        },
+        "botocore": {
+            "hashes": [
+                "sha256:f4167537e59da13539e1b320018acd482f708c85308959a9ada3809061f07738",
+                "sha256:d11fa0e12448105989f1f4eebf093e8cfba5f90860640c488f3211ff2a744df0"
+            ],
+            "version": "==1.12.18"
+        },
         "census": {
             "hashes": [
                 "sha256:93524f51af597a602d944b3d2bda2bef8aada6d614a918de43c49c1c78bb03bc",
@@ -90,6 +104,14 @@
                 "sha256:24d7f2f94f7f3cb6061acb215685e5125fbcdc40a857eff9de22518820b0a4f4"
             ],
             "version": "==0.5.0"
+        },
+        "docutils": {
+            "hashes": [
+                "sha256:7a4bd47eaf6596e1295ecb11361139febe29b084a87bf005bf899f9a42edc3c6",
+                "sha256:02aec4bd92ab067f6ff27a38a38a41173bf01bed8f89157768c1573f53e474a6",
+                "sha256:51e64ef2ebfb29cae1faa133b3710143496eca21c530f3f71424d77687764274"
+            ],
+            "version": "==0.14"
         },
         "entrypoints": {
             "hashes": [
@@ -159,6 +181,13 @@
                 "sha256:f84be1bb0040caca4cea721fcbbbbd61f9be9464ca236387158b0feea01914a4"
             ],
             "version": "==2.10"
+        },
+        "jmespath": {
+            "hashes": [
+                "sha256:f11b4461f425740a1d908e9a3f7365c3d2e569f6ca68a2ff8bc5bcd9676edd63",
+                "sha256:6a81d4c9aa62caf061cb517b4d9ad1dd300374cd4706997aff9cd6aedd61fc64"
+            ],
+            "version": "==0.9.3"
         },
         "jsonschema": {
             "hashes": [
@@ -466,6 +495,13 @@
                 "sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a"
             ],
             "version": "==2.19.1"
+        },
+        "s3transfer": {
+            "hashes": [
+                "sha256:c7a9ec356982d5e9ab2d4b46391a7d6a950e2b04c472419f5fdec70cc0ada72f",
+                "sha256:90dc18e028989c609146e241ea153250be451e05ecc0c2832565231dacdf59c1"
+            ],
+            "version": "==0.1.13"
         },
         "scikit-learn": {
             "hashes": [
